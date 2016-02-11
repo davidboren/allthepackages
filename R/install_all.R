@@ -1,5 +1,6 @@
 .all_packages <- strsplit(
 "avantcredit/aws-tools
+cran/setwidth
 cran/ggplot2
 cran/crayon
 cran/microbenchmark
