@@ -47,7 +47,8 @@ kirillseva/dokk
 kirillseva/kunteynir
 robertzk/lookr
 avantcredit/fookr
-jimhester/covr", "\n")[[1]]
+jimhester/covr
+yihui/roxygen2", "\n")[[1]]
 
 
 #' @export
