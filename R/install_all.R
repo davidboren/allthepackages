@@ -6,15 +6,16 @@ cran/microbenchmark
 cran/knitr
 cran/lubridate
 cran/testthat
+robertzk/testthatsomemore
 cran/memoise
 cran/rJava
 cran/yaml
+rstats-db/DBI
 cran/RJDBC
 hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace
 robertzk/Ramd
-robertzk/testthatsomemore
 robertzk/objectdiff
 robertzk/stagerunner
 robertzk/director
@@ -28,7 +29,6 @@ robertzk/syberia
 kirillseva/cacher
 robertzk/s3mpi
 robertzk/productivus
-rstats-db/DBI
 robertzk/RPostgres@fix_type_issues
 cran/RPostgreSQL
 cran/pROC
