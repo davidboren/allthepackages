@@ -7,12 +7,12 @@ cran/microbenchmark
 cran/knitr
 cran/lubridate
 cran/testthat
-robertzk/testthatsomemore
 cran/memoise
 cran/rJava
 cran/yaml
 rstats-db/DBI
 cran/RJDBC
+robertzk/testthatsomemore
 hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace
